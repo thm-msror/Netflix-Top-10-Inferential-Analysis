@@ -14,20 +14,7 @@ This project explores how **content genres** and **IMDb ratings** impact the **p
 
 ## 🗂️ Repository Structure
 
-Netflix-Inferential-Analysis/
-│
-├── Datasets/
-│   ├── most_popular_global_alltime.csv             # Raw Netflix weekly Top 10 data
-│   ├── omdb_results.csv                            # Raw metadata from OMDb API
-│   ├── final_netflix_omdb_dataset_cleaned.csv      # Cleaned + merged dataset
-│   └── netflix_omdb_dataset.csv                    # Final version used in notebook
-│
-├── final_dataset_preparation.ipynb                 # Data cleaning and merging
-├── Netflix_Inferential_Analysis.ipynb              # Main inferential analysis
-├── Project_NetflixContentAnalysis.pbix             # Power BI Dashboard
-├── ProjectPPT_NetflixContentAnalysis.pdf           # Presentation slides
-├── README.md
-└── LICENSE
+<pre><code> Netflix-Inferential-Analysis/ │ ├── Datasets/ │ ├── most_popular_global_alltime.csv # Raw Netflix weekly Top 10 data │ ├── omdb_results.csv # Raw metadata from OMDb API │ ├── final_netflix_omdb_dataset_cleaned.csv # Cleaned + merged dataset │ └── netflix_omdb_dataset.csv # Final version used in notebook │ ├── final_dataset_preparation.ipynb # Data cleaning and merging ├── Netflix_Inferential_Analysis.ipynb # Main inferential analysis ├── Project_NetflixContentAnalysis.pbix # Power BI Dashboard ├── ProjectPPT_NetflixContentAnalysis.pdf # Presentation slides ├── README.md └── LICENSE </code></pre>
 
 ---
 
