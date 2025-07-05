@@ -80,15 +80,3 @@ Netflix can:
 - Estimate show longevity before launch
 
 ---
-
-## 👩‍💻 Author
-
-**Tehreem Masroor**  
-DSAI3301 – Data Analysis & Visualization  
-University of Doha for Science & Technology
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
